@@ -1,0 +1,4 @@
+vendor
+.env
+storage/cert/privatekey.key
+storage/cert/certificate.crt
